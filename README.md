@@ -42,6 +42,28 @@ Para o pagamento eu utilizo a API do pagar.me (fui nas cegas pois não tenho uma
 
 
 
+##
+<h6>Admin Dashboard</h6>
+
+https://user-images.githubusercontent.com/89032013/147172870-983c93be-293d-435a-8194-5000156f9122.mp4
+
+##
+<h6>Affiliate Dashboard</h6>
+
+https://user-images.githubusercontent.com/89032013/147173212-19c617d0-96d8-4125-acd1-05eb0b485b35.mp4
+
+##
+
+<h6>Checkout Student</h6>
+
+https://user-images.githubusercontent.com/89032013/147173350-994179d9-a92a-4c2d-91eb-f1737dde67f0.mp4
+
+##
+
+<h6>Student Dashboard</h6>
+
+https://user-images.githubusercontent.com/89032013/147173735-e3fa9514-8912-4b00-9c8c-55b5eb8356a1.mp4
+
 
 
 
