@@ -1,0 +1,19 @@
+{
+    "name": "raiane-dev/affiliateprogram",
+    "description": "programa de afiliados.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/",
+            "Src\\": "Src/"
+        },
+        "files": ["config.php"]
+    },
+    "authors": [
+        {
+            "name": "Raiane Dev",
+            "email": "raiane.dev@gmail.com"
+        }
+    ],
+    "require": {}
+}
